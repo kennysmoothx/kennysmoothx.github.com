@@ -4,7 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-name: Zach Holman
+name: Kenneth Hernandez
 url: http://kennysmoothx.github.com
 description: A fantastic blog that is fantastic.
 twitter: imkenny_
